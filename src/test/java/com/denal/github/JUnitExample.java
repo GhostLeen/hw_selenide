@@ -1,4 +1,4 @@
-package com.denal;
+package com.denal.github;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
